@@ -1,38 +1,106 @@
-.App {
-  text-align: center;
+.nav {
+  width: 100%;
+  height: 70px;
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.inner-nav {
+  margin: auto;
+  width: 30%;
+  height: 100%;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.main-login {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.login {
+  width: 30%;
+  height: 300px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.login h1 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 50%;
+  height: 30px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.login button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  width: 100px;
+  height: 30px;
+  background-color: #0d6efd;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  color: white;
+}
+
+.error {
+  margin-top: 10px;
+  text-align: center;
+  color: #dc3545;
+}
+
+.home h1{
+  text-align: center;
+}
+
+.home p {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.products h1 {
+  text-align: center;
+}
+
+.product {
+  width: 60%;
+  margin: auto;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  width: 30%;
+  height: 200px;
+}
+
+.image {
+  height: 85%;
+}
+
+.description {
+  height: 15%;
+  text-align: center;
+}
+
+.products button {
+  margin: auto;
+  margin-top: 50px;
+  display: block;
+  background-color: #0d6efd;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  color: white;  
 }
