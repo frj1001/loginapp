@@ -14,6 +14,8 @@ function Home() {
       Dolor cupiditate debitis voluptate assumenda id tempora cumque eveniet praesentium esse, corrupti ab quia, nulla nemo beatae minus itaque fugiat, iure exercitationem eius nihil a officiis. Eum aut quisquam similique?
       Fugiat aliquid deserunt et veniam cum, optio, pariatur ullam harum earum, tenetur repudiandae animi. Accusantium dolor hic qui enim assumenda doloribus fugit sit quas amet! Error repellat maiores in aperiam.
       Similique atque ullam ipsam animi magnam! Molestiae magnam velit eius fuga dicta! Quibusdam pariatur magnam voluptatem quidem assumenda. Temporibus porro aut labore molestiae architecto nisi amet eius repellat tempora mollitia?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus unde, corrupti sed, nisi officiis facilis, laboriosam consequuntur voluptate eos obcaecati molestiae ipsa. Quibusdam culpa quae totam! Maiores temporibus corrupti facere.
+    Tempore asperiores exercitationem accusantium doloribus facere odit nisi quidem illo? Quibusdam aspernatur doloremque aliquam nam! Excepturi animi voluptatibus ut reprehenderit sequi, perferendis laudantium doloribus voluptate ducimus soluta, inventore praesentium laborum.</p>
     </div>
   )
 }
